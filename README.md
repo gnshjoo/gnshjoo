@@ -10,4 +10,4 @@
 
 
 ### 🎇Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnshjooshow_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnshjoo&show_icons=true&theme=tokyonight)
